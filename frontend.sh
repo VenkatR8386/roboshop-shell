@@ -1,3 +1,5 @@
+
+
 echo -e "\e[33mInstalling Nginix Server\e[0m"
 dnf install nginx -y >/temp/roboshop.log
 
